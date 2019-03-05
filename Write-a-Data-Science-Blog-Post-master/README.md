@@ -34,8 +34,17 @@ There is also a notebook available here to showcsae all my work related to my th
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post](https://medium.com/@u0509421/fifa-19-complete-player-dataset-what-can-we-tell-from-it-f7343fdad020) available
+Question 1: Which Nation has most number of Soccer Players collected in FIFA 19, list the top 20 Nations
+Answer: we can found England, Germany, Spain and Agentina are the top 4 nations have most players in FIFA 19
 
+Question 2: How about the age distribution of the FIFA 19 Players? How is it related to player's wage?
+Answer: most players are between 20–26 years old.However, the wage will increase around late 20s to early 30s, at the time when players gain enough experience and skills. The market will reflect palyer's value.
+
+Question 3: Find out the top 10 clubs with highest total player market value, and the highest average player wage
+Answer: Football players of FC Barcelona, Real Madrid CF, Manchester City and Juventus have the most value clubs along with having most high earning players.
+
+Question 4: Correlation between Age, Overall, Potential, Position, Club, Nationality, Special vs Value/Wage
+Answer: Overall & Potential are most postive related to Wage & Value, Wage and Value are highly correlated to each other.
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
