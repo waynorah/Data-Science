@@ -12,15 +12,17 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-This is an Udacity Nanodegree project. I chose FIFA 19 complete player dataset. 
+For this Udacity Nanodegree project, FIFA 19 complete player dataset is choosn.
 
-As a football fan,  it would be quite interesting to apply data analysis skills here. 
+Questions are following:
 
-My key interests would be:
+Question 1: Which Nation has most number of Soccer Players collected in FIFA 19, list the top 20 Nations
 
-1. What's the ratio of  total wages/ total potential for clubs. Which clubs are the most economical ？
-2. How is nation team player total market value distributed? Probably show a distribution plot in a world map?
-3. How is a player's skilsl set influence his potential/wage? Can we predict a player's potential based on his skills' set? 
+Question 2: How about the age distribution of the FIFA 19 Players? How is it related to player's wage?
+
+Question 3: Find out the top 10 clubs with highest total player market value, and the highest average player wage
+
+Question 4: Correlation between Age, Overall, Potential, Position, Club, Nationality, Special vs Value/Wage
 
 ## File Descriptions <a name="files"></a>
 
